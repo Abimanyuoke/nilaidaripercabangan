@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progaming With Abim</title>
+    <link rel="stylesheet" href="tampilan.css">
+</head>
+<body>
+    <nav>
+        <div class="wraper">
+            <div class="logo"><a href="">Progaming</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#courses">Courses</a></li>
+                    <li><a href="#tutors">Tutors</a></li>
+                    <li><a href="#partners">Partners</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="" class="tbl-biru">Sign Up</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wraper">
+        <!--untuk home-->
+        <section id="home">
+            <img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?size=626&ext=jpg&uid=R114959528&ga=GA1.2.1469993401.1693614581&semt=sph"/>
+            <div class="kolom">
+                <p class="deskripsi">Belajar Progaming #denganmudah</p>
+                <h2>Tetap Sehat & Tetap Semangat</h2>
+                <p>Hai, perkenalkan nama saya adalah Fanani Akbar Abimnayu bisa dipanggil Abim, saya berasal dari</p>
+                <p><a href="" class="tbl-pink">Pelajari Lebih Lanjut</a></p>
+            </div>
+        </section>
+        
+        <!--untuk courses-->
+        <section id="courses">
+            <div class="kolom">
+                <p class="deskripsi">You Will Need This</p>
+                <h2>Online Courses</h2>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur saepe magnam quasi aliquid atque esse numquam nemo dicta assumenda maiores.</p>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur saepe magnam quasi aliquid atque esse numquam nemo dicta assumenda maiores.</p>
+                <p><a href="" class="tbl-biru">Pelajari Lebih Lanjut</a></p>
+            </div>
+            <img src="https://img.freepik.com/premium-vector/boy-studying-with-laptop-online-learning-education-vector-illustration_7087-1886.jpg?size=626&ext=jpg&uid=R114959528&ga=GA1.1.1469993401.1693614581&semt=ais"/>
+        </section>
+
+        <!--untuk tutors-->
+        <section  id="tutors">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Our Top Tutors</p>
+                    <h2>Tutors</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, maiores!</p>
+                </div>
+
+                <div class="tutor-list">
+                    <div class="kartu-tutor">
+                        <img src="https://i.guim.co.uk/img/media/9eb0a1cd9f8abb5ef85b25ac1f62f02beb4c7efa/0_26_2048_1229/master/2048.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=f6aa0e3499af4d3829302d7f0bb991d7"/>
+                        <p>Mark Zuckerberg</p>
+                    </div>
+
+                    <div class="kartu-tutor">
+                        <img src="https://static01.nyt.com/images/2022/12/12/multimedia/00twitter-legal-musk-1-afec/00twitter-legal-musk-1-afec-mediumSquareAt3X.jpg"/>
+                        <p>Ellon Musk</p>
+                    </div>
+
+                    <div class="kartu-tutor">
+                        <img src="https://www.amongguru.com/wp-content/uploads/2017/09/Biil-Gates-Penemu-Microsoft-Windows.png"/>
+                        <p>Bill Gates</p>
+                    </div>
+
+                    <div class="kartu-tutor">
+                        <img src="https://investors.grab.com/system/files-encrypted/styles/large/encrypt/nasdaq_kms/people/2021/11/23/8-51-18/10%20Leadership%20Anthony.jpg?itok=laqRYTzU"/>
+                        <p>Anthony Tan</p>
+                    </div>
+
+                    <div class="kartu-tutor">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShq591gzlgSCrb38jCUx76stHVvtqg_Tfx85rHdjDJerR3kK9p_XY_KcrWouA8y_nmqZ0&usqp=CAU"/>
+                        <p>Steve Job</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!--untuk partners-->
+        <section id="parters">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Our Top Partners</p>
+                    <h2>Partners</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam saepe mollitia molestias dolor aliquid aspernatur pariatur odio unde nisi dolorem!</p>
+                </div>
+
+                <div class="partner-lits">
+                    <div class="kartu-partner">
+                        <img src="https://pbs.twimg.com/profile_images/1646955748444852231/XGehZ_9v_400x400.jpg"/>
+                    </div>
+
+                    <div class="kartu-partner">
+                        <img src="https://images.solopos.com/2012/12/ui9Cqf4y-twitter.png"/>
+                    </div>
+
+                    <div class="kartu-partner">
+                        <img src="https://static.bmdstatic.com/pk/product/medium/5fa256416172a.jpg"/>
+                    </div>
+
+                    <div class="kartu-partner">
+                        <img src="https://play-lh.googleusercontent.com/E8zpI31NGsNf9hQVp1i5RLWC_QrEqB5TuX0UR8bjR91YPRaAPRvLSc-TrzBLEobMRg"/>
+                    </div>
+
+                    <div class="kartu-partner">
+                        <img src="https://e7.pngegg.com/pngimages/695/105/png-clipart-apple-logo-business-apple-logo-outline-heart-logo.png"/>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+      <!--untuk footer-->
+    <div id="contact">
+        <div class="wrapper">
+            <div class="footer">
+                <div class="footer-section">
+                    <h3>Progaming.</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, rem!</p>
+                </div>
+                
+                    <div class="footer-section">
+                        <h3>About.</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, rem!</p>
+                    </div>
+
+                        <div class="footer-section">
+                            <h3>Contact.</h3>
+                            <p>Slorok Jl.Mansari, No:5, RT2 RW1, Kec.Kromengan, KAB.Malang</p>
+                            <p>Kode pos : 12345</p>
+                        </div>
+
+                            <div class="footer-section">
+                                <h3>Sosial.</h3>
+                                <p>Youtube: Jujun Jenggo dan GA (Gendis Algania)</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--untuk  copyright-->
+                <div id="copyright">
+                    <div class="wrapper">
+                        &copy; 2023. <b>Progaming With Abim</b> All Rights Reserved.
+                    </div>
+                </div>
+</body>
+</html>
